@@ -1,2 +1,2 @@
-# DistillBERT_CustomSentimentAnalysislysis
-DistillBERT_CustomSentimentAnalysislysis
+# DistillBERT_CustomSentimentAnalysis
+DistillBERT_CustomSentimentAnalysis
